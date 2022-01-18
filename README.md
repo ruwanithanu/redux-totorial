@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Ref: https://www.taniarascia.com/redux-react-guide/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
